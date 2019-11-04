@@ -29,7 +29,7 @@ highlight! Directory guibg=bg guifg=fg gui=bold ctermbg=bg ctermfg=fg cterm=bold
 highlight! link Title Directory
 highlight! link MoreMsg Comment
 highlight! link Question Comment
-
+highlight! link Conceal Comment
 " vim
 hi link vimFunction Identifier
 
